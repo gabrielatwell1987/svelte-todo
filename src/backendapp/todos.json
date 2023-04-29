@@ -1,0 +1,25 @@
+{
+    "todos": [
+        {
+            "id": "1",
+            "text": "API garbage",
+            "complete": false,
+            "date": "4/18/2023",
+            "dateCompleted": false
+        },
+        {
+            "id": "2",
+            "text": "SVELTE garbage",
+            "complete": false,
+            "date": "9/02/1999",
+            "dateCompleted": false
+        },
+        {
+            "id": "3",
+            "text": "You are garbage",
+            "complete": false,
+            "date": "7/22/2004",
+            "dateCompleted": false
+        }
+    ]
+}
